@@ -288,6 +288,7 @@ Rather than treating the machine learning model as a black box, the analysis inv
 
 MSc Data Science for Economics  
 University of Milan
+University of Copenhagen
 
 GitHub: [@mohmmadhadi](https://github.com/mohmmadhadi)
 
